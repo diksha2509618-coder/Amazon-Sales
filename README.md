@@ -8,16 +8,15 @@ This project is an interactive dashboard created using Google Data Studio to vis
 - Microsoft Excel
 
 ## 📁 Dataset
-The dataset used for this project is included in this repository (Excel file).
+The dataset used for this project is included in this repository.
 
 ## 📈 Key Insights
-- Sales increased in the last quarter
-- Electronics category performed best
-- Online payments were most preferred
-
+- Customers prefer digital payments
+- Total sales are approximately 1.16M
+- UPI is the most preferred payment method (~5M)
 ## 🔗 Live Dashboard
-Click here to view the dashboard: (paste your link here)
+Click here to view the dashboard: ([paste your link here](https://datastudio.google.com/s/tcOsYBsm830))
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
-https://datastudio.google.com/s/g9lt5xxhzmc (Click here to view dashboard)
+Dashboard 1(Gold Dashboard SC.png)
+Dashboard 2(Gold Dashboard SC_.png)
