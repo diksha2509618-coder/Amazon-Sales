@@ -14,9 +14,10 @@ The dataset used for this project is included in this repository.
 - Customers prefer digital payments
 - Total sales are approximately 1.16M
 - UPI is the most preferred payment method (~5M)
+  
 ## 🔗 Live Dashboard
-Click here to view the dashboard: ([paste your link here](https://datastudio.google.com/s/tcOsYBsm830))
+Click here to view the dashboard: (https://datastudio.google.com/s/tcOsYBsm830)
 
 ## 📷 Dashboard Preview
-Dashboard 1(Gold Dashboard SC.png)
-Dashboard 2(Gold Dashboard SC_.png)
+Dashboard 1(amazon sales.png)
+Dashboard 2(amazon sales 2.png)
